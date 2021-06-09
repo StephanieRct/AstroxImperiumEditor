@@ -4,7 +4,7 @@ Currently only load sectors and let you untangle their position/warp gate using 
 
 Using Unity 2019.3.0f6
 
-open the editor under the "Astro" menu.
+open the editor under the "Astrox" menu.
 
 Provided whitout any guarentee or anything. Use at your own risk.
 
